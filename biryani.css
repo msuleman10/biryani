@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+img{
+    width: 100%;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.font{
+    font-size: 20px;
+}
